@@ -97,7 +97,7 @@ Passing an argument to script creates configuration file with name instead of
 sequence number to help remembering which config was for which device.
 Following command will create `wgclient_client_name.conf` file.
 
-    ./easy-wg-quick client_name
+    ./easy-wg-quick.sh client_name
 
 ### Sample output
 
