@@ -77,13 +77,8 @@ Peers also requires WireGuard installed. [Android] and [iOS] are supported.
 
 Just download the script and make it executable with `chmod`.
 
-    wget https://raw.githubusercontent.com/modulman/easy-wg-quick/master/easy-wg-quick
-    chmod +x easy-wg-quick
-
-Note that you can use a short URL as well.
-
-    wget https://git.io/fjb5R -O easy-wg-quick
-    chmod +x easy-wg-quick
+    wget https://raw.githubusercontent.com/modulman/easy-wg-quick/master/easy-wg-quick.sh
+    chmod +x easy-wg-quick.sh
 
 Or clone repository.
 
